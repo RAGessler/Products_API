@@ -61,7 +61,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n    \"title\": \"Potato Salad\",\n    \"description\": \"Moldy Potato Salad\",\n    \"price\": \"5.00\",\n    \"inventory_quantity\": 1\n}",
+					"raw": "{\n    \"title\": \"\",\n    \"description\": \"\",\n    \"price\": \"\",\n    \"inventory_quantity\": 0,\n    \"image_link\": \"\"\n}",
 					"options": {
 						"raw": {
 							"language": "json"
